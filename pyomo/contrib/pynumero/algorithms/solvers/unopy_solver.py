@@ -258,7 +258,6 @@ class UnopySolver:
 
         return x, info
 
-
 # ---------------------------------------------------------------------------
 # PyomoUnopySolver – drives a Pyomo Block directly via unopy
 # ---------------------------------------------------------------------------
